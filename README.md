@@ -1,5 +1,7 @@
 # Open source
 
+[Sandvault](https://github.com/webcoyote/sandvault) - macOS sandboxed user
+
 <https://github.com/dagger/container-use>
 
 <https://github.com/abshkbh/arrakis>
